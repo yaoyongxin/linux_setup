@@ -1,0 +1,108 @@
+ Space group symbol : P 1             
+ Inversion center at the origin
+
+ Cell parameters :  10.75574 10.75574 10.75574  90.000  90.000  90.000
+
+ Number in IT :   1
+  NIGGLI --- A       115.686005     115.686005     115.686005       0.000000       0.000000       0.000000
+  NIGGLI --- B       115.686005     115.686005     115.686005       0.000000       0.000000       0.000000
+
+
+ Transformation matrix for Niggli cell : 
+  1.0 0.0 0.0
+  0.0 1.0 0.0
+  0.0 0.0 1.0
+ No cell reduction; keep original cell parameters :
+    10.7557   10.7557   10.7557   90.0000   90.0000   90.0000
+ total transformation = a,b,c                                          
+
+
+ Reduced form  3 , which means metrically Cubic cP        
+ Transformation matrix to a conventional basis is given in
+ International Tables for Crystallography Vol.A, Table 9.3.1 (page 742)
+
+ WARNING : Axes a and b of reduced cell are very similar.
+
+ WARNING : Axes b and c of reduced cell are very similar.
+
+ WARNING : Axes a and c of reduced cell are very similar.
+
+
+ Na1      0.000000  0.000000  0.000000            
+
+ Na2      0.500000  0.500000  0.000000            
+
+ Na3      0.500000  0.000000  0.500000            
+
+ Na4      0.000000  0.500000  0.500000            
+
+ Cl1      0.000000  0.000000  0.500000            
+
+ Cl2      0.500000  0.500000  0.500000            
+
+ Cl3      0.500000  0.000000  0.000000            
+
+ Cl4      0.000000  0.500000  0.000000            
+
+
+ Atoms in asymmetric unit of new space group :
+ Na   1       0.00000  0.00000  0.00000
+ Na   2       0.50000  0.50000  0.00000
+ Na   3       0.50000  0.00000  0.50000
+ Na   4       0.00000  0.50000  0.50000
+ Cl   1       0.00000  0.00000  0.50000
+ Cl   2       0.50000  0.50000  0.50000
+ Cl   3       0.50000  0.00000  0.00000
+ Cl   4       0.00000  0.50000  0.00000
+
+ Niggli reduced cell option; new space group: 1     P 1       
+
+
+
+ x,y,z            
+ -----------------
+
+
+ Coordinates of atoms for finding origin : 
+ 
+
+
+ Origin shift for setting x,y,z              0.00000  0.00000  0.00000
+
+ no setting possible for   0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+
+
+ -x,-y,-z         
+ -----------------
+
+
+ Coordinates of atoms for finding origin : 
+ 
+
+
+ Origin shift for setting -x,-y,-z           0.00000  0.00000  0.00000
+
+ no setting possible for   0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+
+
+ Minimum standardization parameter gamma = ********
+
+
+ All possible settings :
+ For every setting, origin shifts giving up to 1.0025
+ times the minimum gamma have been retained.
+
+
+
+
+ Results:
+
+
+
+
+ Go on with next structure
+
+
+
+
+ Go on with next structure
