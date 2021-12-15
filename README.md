@@ -21,4 +21,10 @@ I only needed to run
 - python default
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
 
+-gnu compiler
+sudo apt install gcc-10 g++-10 gfortran-10
+Default version:
+sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-10 100 --slave /usr/bin/g++ g++ /usr/bin/g++-10 --slave /usr/bin/gcov gcov /usr/bin/gcov-10 --slave /usr/bin/gfortran gfortran /usr/bin/gfortran-10
 
+--mpi4py
+env MPICC=mpiicc python3 -m pip install mpi4py [--user]
